@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "passgen-cli": "index.js"
+    "passgen-cli": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/tolgaand/passgen-cli.git"
   },
-  "keywords": [],
   "author": "tolgaand",
   "license": "ISC",
   "bugs": {
@@ -26,5 +25,11 @@
     "clipboardy": "^2.3.0",
     "commander": "^8.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": [
+    "password generator",
+    "password generator cli",
+    "passgen",
+    "genpass"
+  ]
 }
