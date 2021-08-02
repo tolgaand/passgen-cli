@@ -1,5 +1,5 @@
 {
-  "name": "@tolgaand/passgen-cli",
+  "name": "@tolgaand/genpass-cli",
   "version": "1.0.0",
   "description": "Password Generator CLI",
   "main": "index.js",
